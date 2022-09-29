@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Baitap1_bai4_phuongtrinhbac2/Baitap1_bai4_phuongtrinhbac2.iml" filepath="$PROJECT_DIR$/Baitap1_bai4_phuongtrinhbac2/Baitap1_bai4_phuongtrinhbac2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai4.iml" filepath="$PROJECT_DIR$/.idea/bai4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap2_bai4_stopWatch/baitap2_bai4_stopWatch.iml" filepath="$PROJECT_DIR$/baitap2_bai4_stopWatch/baitap2_bai4_stopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_3_bai4_XayDungLop_Fan/baitap_3_bai4_XayDungLop_Fan.iml" filepath="$PROJECT_DIR$/baitap_3_bai4_XayDungLop_Fan/baitap_3_bai4_XayDungLop_Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baithuchanh_bai5/baithuchanh_bai5.iml" filepath="$PROJECT_DIR$/baithuchanh_bai5/baithuchanh_bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh2_bai5/thuchanh2_bai5.iml" filepath="$PROJECT_DIR$/thuchanh2_bai5/thuchanh2_bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuchanh_bai4/thuchanh_bai4.iml" filepath="$PROJECT_DIR$/thuchanh_bai4/thuchanh_bai4.iml" />
+    </modules>
+  </component>
+</project>
