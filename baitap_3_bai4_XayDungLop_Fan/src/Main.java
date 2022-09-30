@@ -4,18 +4,19 @@ public class Main {
 //       Fan fan2 = new Fan(2,false,5,"blue");
         Fan fan1 = new Fan();
         Fan fan2 = new Fan();
-        System.out.println("Fan");
-        System.out.println(fan1.toString());
-        fan1.setSpeed(3);
+        fan1.setSpeed(Fan.FAST);
         fan1.setOn(true);
         fan1.setRadius(10);
         fan1.setColor("yellow");
-        System.out.println(fan1.toString());
-        fan2.setSpeed(2);
+        fan2.setSpeed(Fan.MEDIUM);
         fan2.setOn(false);
         fan2.setRadius(5);
         fan2.setColor("blue");
-        System.out.println("Fan2 sau khi  " + fan2.toString());
+        System.out.println("fan1");
+        System.out.println(fan1.toString());
+        System.out.println("fan2");
+        System.out.println(fan2.toString());
+
 
 
 
